@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is file5.txt created in newfeature branch
+=======
+new line
+
+>>>>>>> master
